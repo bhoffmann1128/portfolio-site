@@ -1,2 +1,3 @@
-# portfolio-site
-Portfolio/CSV Website (Demo Code)
+## Personal Portfolio Site
+# Built in Next.js
+(Demo Code for Review Purposes)

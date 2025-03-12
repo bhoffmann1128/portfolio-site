@@ -1,0 +1,186 @@
+{
+    "projects": [
+        {
+            "slug": "amsa",
+            "title": "AMSA.org",
+            "url": "https://amsa.org",
+            "content": "<p>The American Medical Student Organization has over 33,000 members to which it provides resources, benefits and opportunities across the world. B.HOFFMANN worked closely with AMSA to provide a fresh design and renovated wordpress environment. This new build is used daily by the core AMSA stakeholders, various sub-groups and chapters, and the members who frequent the website through a membership software integration. B.HOFFMANN was also tasked with redesigning their logo, creating a style guide to reflect their values, and provide their marketing team with design assets to use across print collateral and social media.</p>",
+            "stack": [
+                "PHP",
+                "Wordpress",
+                "Custom Theme",
+                "Javascript"
+            ],
+            "featuredImage" : "https://blacklabelagency.com/wp-content/uploads/2023/10/AMSA-A.png",
+            "images": [
+                "https://blacklabelagency.com/wp-content/uploads/2023/10/AMSA-A.png",
+                "https://blacklabelagency.com/wp-content/uploads/2023/10/AMSA-B.png",
+                "https://blacklabelagency.com/wp-content/uploads/2023/10/AMSA-C.png"
+            ]
+        },
+        {
+            "slug": "abreak",
+            "title": "aBreak Music",
+            "url": "abreakmusic.com",
+            "content": "<p>aBreak music is a free new music and artist discovery platform based in the US. Launched in the spring of 2022, B.HOFFMANN designed the aBreak music artist website to the vision of the client, and developed a sophisticated platform to allow independent artists to register and upload music, as well as users to vote for their favorite songs. B.HOFFMANN then developed the admin system to allow AR reps, and other stakeholders, to collabortate in reviewing music and artists, add them to a variety of playlists, and analyze the traffic and votes of users interacting with the site. </p>",
+            "stack": [
+                "React",
+                "Next.js",
+                "Tailwind",
+                "AWS Lambda",
+                "AWS API Gatway",
+                "AWS S3",
+                "AWS RDS",
+                "Vercel",
+                "Headless CMS"
+            ],
+            "featuredImage" : "https://blacklabelagency.com/wp-content/uploads/2023/10/portfolio-abreak-a.png",
+            "images": [
+                "https://blacklabelagency.com/wp-content/uploads/2023/10/portfolio-abreak-a.png",
+                "https://blacklabelagency.com/wp-content/uploads/2023/10/ABREAK-A.png",
+                "https://blacklabelagency.com/wp-content/uploads/2023/10/ABREAK-B.png",
+                "https://blacklabelagency.com/wp-content/uploads/2023/10/ABREAK-C.png"
+            ]
+        },
+        {
+            "slug": "hpp",
+            "title": "Health Professions Press",
+            "url": "https://healthpropress.com",
+            "content": "<p>Health Professions Press provides books, textbooks, programs, training, and toolkits in Alzheimer’s/dementia care, long-term care, senior living, leadership, healthcare management, and more</p><p>B.HOFFMANN designed and developed the HPP ecommerce website to give publishers of dementia care materials to sell their catalog online.  Customers are able to make single and bulk purchases, while also being better informed of authors and their publications in the dementia care space.",
+            "stack": [
+                "PHP",
+                "Wordpress",
+                "WooCommerce",
+                "Custom Theme",
+                "Javascript"
+            ],
+            "featuredImage" : "https://blacklabelagency.com/wp-content/uploads/2023/10/HPP-A.png",
+            "images": [
+                "https://blacklabelagency.com/wp-content/uploads/2023/10/HPP-A.png",
+                "https://blacklabelagency.com/wp-content/uploads/2023/10/HPP-B.png"
+            ]
+        },
+        {
+            "slug": "best-friends",
+            "title": "Best Friends",
+            "url": "https://bestfriends.healthpropress.com",
+            "content": "<p>Best Friends is an approach to dementia care. A nurse takes training courses in the Best Friends approach and then becomes certified as a Master Trainer. B.HOFFMANN created the The Master Trainer Portal,  a place for those that are certified to gain access to resources, connect with other Master Trainers and ask questions in a support forum.</p><p>Along with the portal, B.HOFFMANN developed  a custom  notification system that  keeps track of Master Trainer portfolio, payments and renewal dates. A series of 15 automated messages go out to Master Trainers, or their Parent Companies depending on when they registered, if a payment or portfolio has been submitted or if they are being deactivated for lack of payment or participation. This automated payment system saves administrators a lot of time throughout the year when managing hundreds of Master Trainer certifications whose notification were manually produced in the past. </p>",
+            "stack": [
+                "PHP",
+                "Wordpress",
+                "Custom Theme",
+                "Javascript"
+            ],
+            "featuredImage" : "https://blacklabelagency.com/wp-content/uploads/2023/10/HPP-C.png",
+            "images": [
+                "https://blacklabelagency.com/wp-content/uploads/2023/10/HPP-C.png"
+            ]
+        },
+        {
+            "slug": "stm",
+            "title": "STM ASSOC",
+            "url": "https://www.stm-assoc.org",
+            "content": "<p>STM is the standard bearer for the academic publishing industry, working with its members to advance trusted research worldwide. They are committed to ensuring that the great discoveries of our time are communicated with pinpoint accuracy, clarity and integrity.</p><p>B.HOFFMANN works with STM to design and develop online digital web pages, banners, and social media assets to engage their members. The OA (Open Access) dashboard is a microsite designed to showcase the work of STM, providing visitors with an overview of open access analytics and trends. the microsite provides members with ways to access the data that STM has gathered throughout the year.<p><p>B.HOFFMANN also collaborated with STM to reinvent their document library. Administrators are able to upload and categorize downloadable assets, as visitors are able to filter through and download the items they need.",
+            "stack": [
+                "PHP",
+                "Wordpress",
+                "Javascript"
+            ],
+            "featuredImage" : "https://blacklabelagency.com/wp-content/uploads/2023/10/STM-A.png",
+            "images": [
+                "https://blacklabelagency.com/wp-content/uploads/2023/10/STM-A.png",
+                "https://blacklabelagency.com/wp-content/uploads/2023/10/STM-B.png",
+                "https://blacklabelagency.com/wp-content/uploads/2023/10/STM-C.png"
+            ]
+        },
+        {
+            "slug": "nature-sacred",
+            "title": "Nature Sacred",
+            "url": "https://naturesacred.org",
+            "content": "<p>Nature Sacred exists to inspire, inform and guide communities in the creation of public green spaces—called Sacred Places—designed to improve mental health, unify communities and engender peace. </p>            <p>B.HOFFMANN, in collaboration with the marketing team at Fresh Tonic, designed and built the Nature Sacred website in 2018. In 2019, B.HOFFMANN created the intranet to allow “Firesouls” to download resources, connect through the directory, schedule events at their Sacred Places and Request Funding for future projects. B.HOFFMANN has also helped to design numerous social media campaigns and downloadable infographics to help describe the Nature Sacred mission and methodologies</p>",
+            "stack": [
+                "PHP",
+                "Wordpress",
+                "Custom Theme",
+                "Javascript"
+            ],
+            "featuredImage" : "https://blacklabelagency.com/wp-content/uploads/2023/10/Nature-Sacred-A.png",
+            "images": [
+                "https://blacklabelagency.com/wp-content/uploads/2023/10/Nature-Sacred-A.png",
+                "https://blacklabelagency.com/wp-content/uploads/2023/10/Nature-Sacred-B.png",
+                "https://blacklabelagency.com/wp-content/uploads/2023/10/Nature-Sacred-C.png",
+                "https://blacklabelagency.com/wp-content/uploads/2023/10/Nature-Sacred-D.png"
+            ]
+        },
+        {
+            "slug": "agent-aerials",
+            "title": "Agent Aerials UI Mockup",
+            "url": null,
+            "content": "<p>Agent Aerials provides drone inspections of structures like bridges, cell towers and buildings. The drones provide a means for companies to inspect a structure with a drone before sending out technicians to analyze and fix a variety of issues. </p><p>B.HOFFMANN designed and developed the user interface for the Agent Aerials Drone Management Software. The system allows administrators and technicians to log in, view a dashboard of ongoing and past inspections. From there they are able to assign technicians, add service notes, view photo galleries and resource documentation of structures and set priorities to inspections.</p>",
+            "stack": [
+                "Javascript",
+                "HTML",
+                "UI Design"
+            ],
+            "featuredImage" : "https://blacklabelagency.com/wp-content/uploads/2023/10/AGENT-AERIALS.png",
+            "images": [
+                "https://blacklabelagency.com/wp-content/uploads/2023/10/AGENT-AERIALS.png"
+            ]
+        }
+    ],
+    "resume": 
+        {
+            "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel dolor tellus. Pellentesque dui justo, scelerisque sed mi placerat, accumsan tempus nulla. Suspendisse pharetra viverra turpis, vel dapibus lorem interdum non. Quisque luctus hendrerit odio, eu aliquet diam ultrices in. Donec eu ornare libero. Pellentesque volutpat sem ante, id mollis quam consequat at. In ut ipsum ultricies, pulvinar dui ut, iaculis sapien. Ut mi tortor, placerat a pellentesque maximus, mollis eget dolor. Vivamus pulvinar sapien ex, nec dignissim erat mollis maximus. Phasellus tincidunt dolor sed fermentum tincidunt.",
+            "stackNew" : [
+                {
+                    "title": "REACT",
+                    "icon": "FaReact"
+                }
+            ],
+            "stack" : [
+                "REACT",
+                "Next.js",
+                "Javascript",
+                "CSS",
+                "Tailwind",
+                "PHP",
+                "C#/.NET",
+                "AWS / RDS",
+                "AWS / LAMBDA",
+                "AWS / API Gateway",
+                "AWS / Cloudwatch",
+                "AWS / S3"
+            ],
+            "experience" : [
+                {
+                    "title" : "COO / Senior Developer",
+                    "org" : "Black Label",
+                    "url" : "https://blacklabelagency.com",
+                    "years" : "2014 - 2016",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel dolor tellus. Pellentesque dui justo, scelerisque sed mi placerat"
+                },
+                {
+                    "title" : "Partner / Creative Director, Developer",
+                    "org" : "The Riddle Brothers",
+                    "url" : null,
+                    "years" : "2013 - 2014",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel dolor tellus. Pellentesque dui justo, scelerisque sed mi placerat"
+                },
+                {
+                    "title" : "Interactive Designer / Developer",
+                    "org" : "Planit",
+                    "url" : "https://www.planitagency.com",
+                    "years" : "2008 - 2013",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel dolor tellus. Pellentesque dui justo, scelerisque sed mi placerat"
+                },
+                {
+                    "title" : "Designer/Developer",
+                    "org" : "Brave New Markets",
+                    "url" : "https://www.bravenewmarkets.com",
+                    "years" : "2006-2008",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel dolor tellus. Pellentesque dui justo, scelerisque sed mi placerat"
+                }
+            ]
+        }
+    
+}
